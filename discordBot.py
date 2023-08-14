@@ -5,7 +5,7 @@ import discord
 
 
 
-token = ''
+token = 'MTEzOTA4MTg1MDIwODM5OTM4MA.G8aJvS.azEw2UDt7Asn6Y8_7dDUOsjOTjSylWaToRKzWE'
 
 
 joke = pyjokes.get_jokes(language='es', category='all')
